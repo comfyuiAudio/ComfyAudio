@@ -1,6 +1,6 @@
 <div align="center">
 
-# ComfyUI
+# ComfyUI for Audio
 **The most powerful and modular visual AI engine and application.**
 
 
