@@ -1,7 +1,7 @@
 <div align="center">
 
 # ComfyUI for Audio
-**The most powerful and modular visual AI engine and application.**
+**The most powerful and modular audio AI engine and application.**
 
 
 [![Website][website-shield]][website-url]
