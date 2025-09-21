@@ -2,8 +2,10 @@
 **The most powerful and modular audio AI engine and application.**
 # [Motivation](https://www.youtube.com/live/5kb-rP0m5BA?feature=shared&t=386)
 **Improved stability for audio work in ComfyUI.**
+- r/comfyuiAudio community repo for sharing audio workflows.
+- Aiming for as many custom nodes in the ecosystem supported.
 - Target the v0.3.60 release (Win portable commit).
-- Devs start a v0.3.60 branch.
+- Audio node devs start a v0.3.60 branch.
 - Next update Q1 January 1st 2026.
 
 
