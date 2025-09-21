@@ -1,4 +1,4 @@
-# ComfyUI for Audio
+# ComfyAudio: ComfyUI for Audio
 **The most powerful and modular audio AI engine and application.**
 # [Motivation](https://www.youtube.com/live/5kb-rP0m5BA?feature=shared&t=386)
 **Improved stability for audio work in ComfyUI.**
