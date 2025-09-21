@@ -1,6 +1,10 @@
 # ComfyUI for Audio
 **The most powerful and modular audio AI engine and application.**
 # [Motivation](https://www.youtube.com/live/5kb-rP0m5BA?feature=shared&t=386)
+**Improved stability for audio work in ComfyUI.**
+- Target the v0.3.60 release (Win portable commit).
+- Devs start a v0.3.60 branch.
+- Next update Q1 January 1st 2026.
 
 
 [![Website][website-shield]][website-url]
